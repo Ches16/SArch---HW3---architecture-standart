@@ -1,4 +1,4 @@
-https://github.com/Ches16/SArch---HW3---architecture-standart/blob/main/Group%20139.png
+[Карта IT-ландшафта](https://github.com/Ches16/SArch---HW3---architecture-standart/blob/main/Group%20139.png)
 
 На такие красивые схемки для демонстрации существующих интеграций, как у практикума, не претендую)) Поэтому отрисовал в привычных нотациях:
 
